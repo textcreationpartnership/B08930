@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between Lod. Muggleton and the Quakers: Shewing forth the damnable blasphemies of that impudent impostor, collected out of their own printed letters. To undeceive the people. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08930</idno>
+            <idno type="OCLC"> 80922528</idno>
+            <idno type="STC">Wing D1315</idno>
+            <idno type="STC">ESTC R171768</idno>
+            <idno type="EEBO-CITATION">80922528</idno>
+            <idno type="OCLC">ocm 80922528</idno>
+            <idno type="VID">191860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191860)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between Lod. Muggleton and the Quakers: Shewing forth the damnable blasphemies of that impudent impostor, collected out of their own printed letters. To undeceive the people. ...</title>
+                  <author>Muggleton, Lodowick, 1609-1698.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Last p. blank.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Muggleton, Lodowick, 1609-1698 --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191860:1" rendition="simple:additions"/>
+            <pb facs="tcp:191860:2"/>
+            <p>A DIALOGUE BETWEEN LOD. MUGGLETON AND THE <hi>Q<g ref="char:V">Ʋ</g>AKERS:</hi> Shewing forth the Damnable Blaſphe<g ref="char:EOLhyphen"/>mies of that Impudent Impoſtor, collected out of their own Printed Letters.</p>
+            <p>
+               <hi>To <g ref="char:V">Ʋ</g>ndeceive the People.</hi>
+            </p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. C.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:191860:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:191860:3"/>
+            <head>A Dialogue, &amp;c.</head>
+            <p>IT is very obſervable, that when Men have once ſhaken hands with the Ancient Orthodox, and undoubted Principles of the Church of
+<hi>England,</hi> they ſoon after bid Adieu to Morality, Manners, and Diſcretion; and ſuffering themſelves to be hur<g ref="char:EOLhyphen"/>ried on by the impetuous Blaſts of giddy headed Frenzy, ſtop not till they are plunged in thoſe ominous Quagmires of Atheiſm, Irre<g ref="char:EOLhyphen"/>ligion, or Hereſie; whoſe fatal Effects the yet yawning Wounds of many hundreds of Families in this Nation do but too recently de<g ref="char:EOLhyphen"/>clare. It is no ſmall Grief to the Conſcientious and Learned, to ſee the Profane and Ignorant make a Trade of their Profeſſed Chriſtiani<g ref="char:EOLhyphen"/>ty, and reckon to themſelves ſome Hundreds <hi>per annum</hi> upon the Invention of ſome innovated or unheard of Doctrine. But above all, whoever attempted any thing in this kind, I think this <hi>Muggleton</hi> to be moſt notorious. However theſe Seducing Impoſtors (like Jealous Harlots) are by reaſon of their Secular Intereſts rendred un<g ref="char:EOLhyphen"/>capable of living near one another without Railing; inſomuch that if the Devil were of ſo moroſe a Conſtitution as that Philoſopher, who never laugh'd but when he ſaw a Mare mumbling of Thiſtles, he would ſurely have ſtretched his Spleen in deriding at thoſe Illi<g ref="char:EOLhyphen"/>terate Diſputations have paſſed between
+<hi>Muggleton</hi> and the Qua<g ref="char:EOLhyphen"/>kers.</p>
+            <p>Which becauſe I have here undertaken to ſumme up, and to ſhew the unacquainted Reader the Ridiculouſneſs of the one, as well as the Prophaneneſs of the other, I think fit to let him underſtand, that the Quakers having been ſeveral times baffled out of their prin<g ref="char:EOLhyphen"/>cipal Tenets, were at length no longer able to maintain their in<g ref="char:EOLhyphen"/>vented Fopperies, but by running to Enthuſiaſtick Sanctuaries, amu<g ref="char:EOLhyphen"/>ſing their moſt Rational Opponents with an Harangue of thoſe extra<g ref="char:EOLhyphen"/>ordinary Gifts of the Spirit, and that unuſual Light within, which they pretended was committed to their charge. Now this <hi>Lodowick Muggleton</hi> being deſtitute of many of thoſe natural Endowments, as well as artificial Acquirements, which have given ſome colour to the Errors of more Learned Men, builds upon the Quakers Foun<g ref="char:EOLhyphen"/>dation, and talks as far beyond them of Viſions, Revelations, Com<g ref="char:EOLhyphen"/>miſſions, and Enthuſiaſms, &amp;c. as they did to others before in the ſame kind; as you ſhall hear by this enſuing Dialogue, collected out of both their Letters ſent to each other, and now printed and
+<pb n="2" facs="tcp:191860:4"/>bound up together in a Book of
+<hi>Muggletons</hi> called, <hi>The Interpretation
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Eleventh Chapter of the Revelations.</hi>
+            </p>
+            <sp>
+               <speaker>
+                  <hi>Rich. Farnſworth Quaker, pag.</hi> 4.</speaker>
+               <p>Lodowick Muggleton, <hi>thou pretendeſt to have received a Commiſſion by a Voice from God, whereby thou becomeſt Judge, Accuſer, and Wit<g ref="char:EOLhyphen"/>neſs, to curſe and bleſs according as thou pleaſeſt; and whoſoever thou doſt bleſs or curſe, it is not in the power of Men nor Angels, no nor in the Almighty himſelf, to revoke from Eternal Damnation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Muggleton pag.</hi> 40.</speaker>
+               <p>My Commiſſion of the Spirit is as true as ever
+<hi>Moſes</hi> or the Pro<g ref="char:EOLhyphen"/>phets were, and of as great, nay greater Authority then theirs, and given by the ſame Spirit.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Quaker pag.</hi> 41.</speaker>
+               <p>
+                  <hi>But thou art ſingular in thy Doctrine, Knowledge, Judgment, &amp;c. and under pretence of a Commiſſion from God, haſt preſumed to exalt thy ſelf above God and Chriſt, in affirming thy Sentence (if once paſt) un<g ref="char:EOLhyphen"/>revokable even by the Almighty himſelf.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Muggleton pag.</hi> 43.</speaker>
+               <p>You would have ſaid as much of <hi>Peter</hi> if you had lived in thoſe days; and yet you ſee God gave that power to Man to keep tbe Keys of Heaven and Hell, <hi>pag.</hi> 44. and as he had power to bind and looſe, to remit or retain; ſo likewiſe hath the ſame God given me to bleſs and curſe Men and Women to eternity, <hi>pag.</hi> 45. I do nei<g ref="char:EOLhyphen"/>ther bleſs any out of Affections, neither do I curſe any through En<g ref="char:EOLhyphen"/>vy or Malice; but it is either becauſe they have ſinned againſt the Holy Ghoſt, or elſe I do know them to be of the Reprobate Seed.</p>
+            </sp>
+            <sp>
+               <speaker>Quaker.</speaker>
+               <p>
+                  <hi>How dare you exclude all other Miniſters and Meſsengers by this pre<g ref="char:EOLhyphen"/>tended Power, and onely aſſume that Commiſſion to your ſelf?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Muggleton pag.</hi> 46.</speaker>
+               <p>As true as God is Truth, there is no true Meſſenger, Miniſter, or Embaſſador of God in the World but my ſelf, neither ſhall there be any ſent of God after me to the Worlds end, <hi>pag.</hi>
+47. For it is Gods practice to give Authority to Men that are mortal, to condemn ac<g ref="char:EOLhyphen"/>cording to the tenor of their Commiſſion, whether it be for a Tem<g ref="char:EOLhyphen"/>poral or a Spiritual Death; and that you and ſuch as you ſhall find to your eternal ſorrow, make as light of it as you will.</p>
+            </sp>
+            <sp>
+               <speaker>Quaker.</speaker>
+               <p>
+                  <hi>If thou art ſo great a Prophet as thou pretendeſt to be, why is not thy Name inſerted in the Holy Scriptures, as other Prophets were?</hi>
+               </p>
+            </sp>
+            <pb n="3" facs="tcp:191860:4"/>
+            <sp>
+               <speaker>
+                  <hi>Muggleton pag.</hi> 149.</speaker>
+               <p>If you had lived in Chriſts days when he was upon Earth, you
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould hardly have found his Name recorded in the Law and the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rophets; nay it is more probable that I am ordained the Chief
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udge, becauſe my Name is not recorded in Scripture. If there had been ſuch a Name written in Scriptures, that he ſhould be the
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt Prophet in the World, many would have named their Sons <hi>Lodo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ick Muggleton,</hi> and that is the cauſe there is ſo many <hi>Johns, Tho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſſes,</hi> and <hi>Jeremiahs, &amp;c.</hi>
+               </p>
+               <p>Furthermore, in <hi>Sam. Hooton</hi>'s and <hi>W. Shepherd</hi>'s Letter to <hi>Mug<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eton,</hi> pag. 7. wherein they begin thus.</p>
+               <p>
+                  <hi>Friend, for ſo we can call thee, as Chriſt did</hi> Judas, <hi>here is ſome Queries for thee to anſwer in writing, or elſe for ever ſtop thy mouth: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r what reaſon did Chriſt come into the world?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Muggleton</hi>'s Anſwer.</speaker>
+               <p>Chriſt came into the world to deſtroy the Devil, which is the Spi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Reaſon, of which Spirit moſt of the Quakers are of</p>
+            </sp>
+            <sp>
+               <speaker>Quakers.</speaker>
+               <p>
+                  <hi>Is the Spirit of man mortal or not?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Muggleton.</speaker>
+               <p>It is Mortal, and doth and ſhall dye with the body.</p>
+            </sp>
+            <sp>
+               <speaker>Quakers.</speaker>
+               <p>
+                  <hi>How cameſt thou by this pretended Commiſſion, or how canſt thou give <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> any reaſon to beleive it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Muggleton pag.</hi> 67.</speaker>
+               <p>That I have this Commiſſion I prove thus: Becauſe I do know by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> revelation of Faith, that God did ſpeak to <hi>John Reeve</hi> three morn<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s together diſtinct words and ſentences to the hearing of the ear, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 51.
+<hi>Feb.</hi> 3, 4, 5. and gave him a Commiſſion as he did
+<hi>Moſes.</hi> And as <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ron</hi> was given to be <hi>Moſes</hi>'s mouth, ſo was
+<hi>Lodowick Muggleton</hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>en to be <hi>John Reeve</hi>'s mouth; ſo that <hi>John Reeve</hi> being the chief
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ilſt he was living, but ſince the Burden or Commiſſion of the Lord
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h been laid upon me: as
+<hi>Eliſha</hi> had a double portion of <hi>Elijah</hi>'s
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rit, ſo have I had a double portion of Revelation of the ſpirit ſince <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n Reeve</hi> departed this life.</p>
+            </sp>
+            <sp>
+               <speaker>Quakers.</speaker>
+               <p>
+                  <hi>By what rule or method doſt thou judge and paſs condemnation on thy <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>w creatures?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Muggleton pag.</hi> 70.</speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> go by as certain a rule as the Judges of the Lord do when they
+<pb n="4" facs="tcp:191860:5"/>give judgement according to the Law, only I have no Juries, nor ac<g ref="char:EOLhyphen"/>cuſers, nor witneſſes. What Jury had
+<hi>Eliſha</hi> when he called for fire from Heaven, to fall upon two Captains and their fiftys? What Jury had <hi>Peter</hi> when he ſmote
+<hi>Ananias</hi> with his ſword? But to give the Reader better ſatisfaction, I ſhall ſhew how I condemn men and women at a diſtance.
+1. There muſt be ſome of my faith who hath heard them ſpeak wicked ſpeeches againſt me and my Commiſſion, and ſo thereupon I have ſent the ſentence unto them. 2. I do ne<g ref="char:EOLhyphen"/>ver paſs ſentence upon them, unleſs I have ſome writings under their own hands, as I have from you Quakers.</p>
+               <p>Thus (Reader) I have entertained thee awhile with the Errors, Blaſphemies, and Irregularities of <hi>Lodowick Muggleton;</hi> on which fearing thou ſhouldſt be by this time cloyd, I ſhall divert thy melan<g ref="char:EOLhyphen"/>choly, and pleaſe thy curioſity, with ſome of thoſe ſtrange Hereſies and ungrounded principles which <hi>Muggleton</hi> not without ſome rea<g ref="char:EOLhyphen"/>ſon in many places lays to the Quakers charge; ſo that when they are both deliberately conſidered in thy ſerious judgement, thou mayſt ſtrike thy hand on thy breaſt, and wonder how many ſilly ſoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could ever be deluded by ſuch Idle Blaſphemous and Irrational Im<g ref="char:EOLhyphen"/>poſtors.</p>
+               <p>
+                  <hi>Muggleton,</hi> before he lets fall his ſhowre of ponderous Argu<g ref="char:EOLhyphen"/>ments on the Quakers, ſalutes them with this Prologue, to give them time to ſet themſelves in a defenſive poſture againſt the in<g ref="char:EOLhyphen"/>tended rage. You are much miſtaken if you think to deal with
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Prophet, who hath a Commiſſion from God, as you deal with th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Prieſts of the Nation; becauſe you are faln to a more preciſe kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of life then they, and have amazed them with your feinged Ligh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> within, you muſt not think to do ſo by a commiſſioned Prophet.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Quaker pag.</hi> 21.</speaker>
+               <p>
+                  <hi>Thou ſayſt that we deny both the Father and the Son, and that we d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ny the ſame fleſh and bones which Jeſus ſuffered death withall upon t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Croſs.</hi>
+               </p>
+               <p>
+                  <hi>Ibid.</hi> 2. <hi>You ſay that we deny he was laid in the grave, roſe agai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and was ſeen by the Apoſtles; I challenge thee to tell me, where and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> whom theſe things were denyed by any of us, or elſe be thy mou<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſtopt for ever after.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Muggleton pag.</hi> 21.</speaker>
+               <p>According to your charge I ſhall acquaint you with both the pla<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and perſons. The place <hi>Eaſt Cheap,</hi> at a Butchers houſe, and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <pb n="5" facs="tcp:191860:5"/>perſons which deny'd them were firſt the Butcher himſelf, I think his name was
+<hi>Whitpan;</hi> another of them was <hi>Fox</hi> the younger, who is now both dead and damned to eternity; another of them was <hi>J. Har<g ref="char:EOLhyphen"/>wood;</hi> as for the other two, I have forgot them, but one of them was a great Lubbardly Fellow, perhaps you may know him better then I.</p>
+               <p>
+                  <hi>Pag.</hi> 22. Secondly, as for my Curſing: If it were a ſin in me, it muſt certainly be a greater in you, who have nothing but that fictiti<g ref="char:EOLhyphen"/>ous light within you, to warrant you from that juſt imputation which may be juſtly thrown on your moſt damnable Doctrine: and that light within, which you ſo much brag of, is nothing but the Whimſies and Chymera's of your frantick brains; inſomuch that it differs in you, every one ſharing more or leſs, according to their natural bilities.</p>
+               <p n="3">3. This light within you is nothing but the Capricio's and Le<g ref="char:EOLhyphen"/>valto's of your mad brains, in as much as it leads you to actions of Sorcery and Witchcraft before you begin that pretended devotion; ſo that you often ſit as if you were ſuddenly ſtruck dumb or bewitcht for two hours ſpace before you utter one word again, <hi>pag.</hi> 7. Do you blind Quakers think, that the repeating of Scripture texts doth prove my Commiſſion a pretended thing? Then I ſay, thoſe <hi>Jews</hi> which were under the Law of <hi>Moſes</hi> might as well have ſaid, that the Apo<g ref="char:EOLhyphen"/>ſtles commiſſion was but a feigned thing; and ſo they did, therefore they perſecuted them for it, as you would me if it lay in your power, as it did in theirs. I ſhall therefore ſpeak a few words to you <hi>Sam. Hooton</hi> and
+<hi>Will. Shepherd,</hi> becauſe you two have committed that un<g ref="char:EOLhyphen"/>pardonable ſin which will never be forgiven either in this world, or in that to come, in ſpeaking evil of the Doctrine and Declaration of the Spirit and Commiſſion we received from the True Perſonal God without us, even the man Chriſt Jeſus in Glory.</p>
+            </sp>
+            <div type="curse">
+               <head>His form of Curſing.</head>
+               <p>
+                  <hi>Therefore in Obedience to my Commiſſion, I do pronounce</hi> Sam. Hoo<g ref="char:EOLhyphen"/>ton <hi>and</hi> W.S. <hi>for their Blaſphemy againſt the Holy Spirit that ſent me, Curſed and Damned Souls and Bodies, from the preſence of God, Elect, Men and Angels to Eternity.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191860:6"/>
+            <pb facs="tcp:191860:6"/>
+            <pb facs="tcp:191860:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
